@@ -1,5 +1,5 @@
 {
-  "name": "stats",
+  "name": "@dbots/stats",
   "version": "1.0.0",
   "description": "Post stats to dbots.co",
   "main": "lib/index.js",
@@ -9,7 +9,8 @@
     "discord bots",
     "dbots"
   ],
-  "author": "dbots",
+  "author": "theADAMJR",
+  "private": false,
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.5.1",
